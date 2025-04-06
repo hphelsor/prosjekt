@@ -12,7 +12,7 @@ Programmet leser data fra et Excel regneark, analyserer dataene og presenterer d
 
 # import pandas lib as pd
 import pandas as pd
-# import numpy lib as pd
+# import numpy lib as np
 import numpy as np
 # import matplotlib lib as plt
 import matplotlib.pyplot as plt
